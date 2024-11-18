@@ -12,3 +12,5 @@ addons = [
 ]
 ```
 5) `./mitmweb -s dumper.py`
+
+![demo](https://github.com/user-attachments/assets/01ddd558-db60-4aba-91a3-94ff2cdbb7e7)
